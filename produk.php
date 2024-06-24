@@ -29,7 +29,7 @@ include 'header.php';
 							} else {
 							?>
 								<div class="col-md-6">
-									<a href="keranjang.php" class="btn btn-success btn-block" role="button"><i class="glyphicon glyphicon-shopping-cart"></i> Tambah</a>
+
 								</div>
 
 							<?php
